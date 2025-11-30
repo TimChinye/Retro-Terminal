@@ -1,13 +1,14 @@
 # Retro Terminal - C# Architecture Showcase
 
+https://github.com/user-attachments/assets/db770723-02f1-47dc-83ec-1cb1b6c7032b
+
+![Project Logo](https://raw.githubusercontent.com/TimChinye/Retro-Terminal/refs/heads/main/RetroTerminal%20Logo.png) 
+
 This project is a complete re-engineering of a first-year university assignment. The original task was to create a set of simple algorithms (Trinary conversion, ISBN validation, School Roster) wrapped in a console menu.
 
 While the original submission received a high grade for its creativity (simulating a retro PC monitor), the code was monolithic and difficult to maintain. **This repository represents a professional refactoring of that project.**
 
 The goal was a strict technical challenge: **preserve the exact, unique user experience (1:1 behavior parity) while completely replacing the underlying architecture with industry-standard patterns.**
-
-![Project Banner](https://via.placeholder.com/800x400?text=Retro+Terminal+UI+Screenshot+Here)
-*(Note: Replace the link above with a screenshot or GIF of your running application)*
 
 ## The Challenge
 
