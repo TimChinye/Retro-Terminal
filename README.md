@@ -1,6 +1,6 @@
 # Retro Terminal - C# Architecture Showcase
 
-https://github.com/user-attachments/assets/db770723-02f1-47dc-83ec-1cb1b6c7032b
+https://github.com/user-attachments/assets/b69bbe53-a96f-4cfc-9d39-3f69022fa51d
 
 ![Project Logo](https://raw.githubusercontent.com/TimChinye/Retro-Terminal/refs/heads/main/RetroTerminal%20Logo.png) 
 
